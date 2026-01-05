@@ -1,3 +1,5 @@
+"use client"
+
 import { AnalyticsDashboard } from "@/components/analytics-dashboard"
 import { CSVUpload } from "@/components/csv-upload"
 import { useState } from "react"
